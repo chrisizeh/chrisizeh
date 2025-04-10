@@ -12,14 +12,7 @@
 ## I have worked a lot with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,git,c,cpp,cmake,docker,fastapi,flask,git,github,java,linux,postgres,julia,py,raspberrypi,ros,sqlite,tailwind,githubactions" />
-  </a>
-</p>
-
-## I have worked a bit with:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,grafana,graphql,kubernetes,qt,r,unity" />
+    <img src="https://skillicons.dev/icons?i=bash,git,cpp,docker,git,linux,julia,py,raspberrypi,ros,sqlite," />
   </a>
 </p>
 
